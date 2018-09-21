@@ -9,6 +9,9 @@ body{
     
     
 }
+h1{
+    background-color: 
+}
 .mario.jump img{
     animation-name: jump;
     animation-duration: 1s;
