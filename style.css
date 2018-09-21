@@ -10,9 +10,22 @@ body{
     
 }
 h1{
-    background-color: 
+    background-color:#b30000;
+    color: #FFFFFF;
+    padding: 4px;
+    text-align: center;
+    margin: 0;
+    font-family: 'Notable', sans-serif;
+}
+
+.block{
+    background: url('images/block.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30px;
 }
 .mario.jump img{
+    margin-bottom: 0;
     animation-name: jump;
     animation-duration: 1s;
     animation-timing-function: cubic-bezier(.87,-.41,.19,1.44);
